@@ -3,7 +3,14 @@ CS 82A — Data Science
 Student: Svetlana Babaeva
 This project examines how chlorophyll-a concentrations varied among three basins of Blue Mesa Reservoir, Colorado, from 2016 to 2023, using USGS remote sensing data.
 The dataset contains 497 records. The analysis includes data cleaning, basic statistics, and three charts: annual variation, seasonal variation, and basin comparison.
-Charts: The three charts (annual variation, seasonal variation, and basin comparison) are included in the Jupyter Notebook blue_mesa_project.ipynb.
+### Annual Variation
+![Annual Variation](annual_variation.png)
+
+### Seasonal Variation
+![Seasonal Variation](seasonal_variation.png)
+
+### Basin Comparison
+![Basin Comparison](basin_comparison.png)
 The results showed that Iola had the highest average chlorophyll-a concentration (7.49 µg/L) and the greatest variation, compared with Cebolla (3.77 µg/L) and Sapinero (3.03 µg/L).
 The analysis was completed in Python using JupyterLab. The results describe patterns in the available data but do not determine their environmental causes.
 Data source: https://doi.org/10.5066/P9XULQAS
